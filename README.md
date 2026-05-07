@@ -1,7 +1,4 @@
 # deslopinator-operator
 
-Deslopinator Kubernetes Operator
-
-## Getting Started
-
-TODO: Add getting started instructions.
+Deslopinator Kubernetes Operator - GitHub-native code health for an org, on
+Kubernetes
